@@ -16,7 +16,7 @@ Email: s1133337@mail.yzu.edu.tw
 ```
 - Rationale: 
 ```text
-¡@	ASCII code is a different kind of symbol of a number in computer, so I use this special code to define my hash function. 
+	ASCII code is a different kind of symbol of a number in computer, so I use this special code to define my hash function. 
 	The result would be key number transform to ASCII code and mod the table size.
 	I think this method could lminumize the collisions.
 ```
