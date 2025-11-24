@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\CXX\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\Makefile.bat||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\Makefile.bat||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\README_template.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\README_template.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -19,16 +11,28 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\Makefile.bat||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\Makefile.bat||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\Makefile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\Makefile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\hash_fn.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\CXX\\hash_fn.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\C\\hash_fn.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\C\\hash_fn.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\hash_fn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\CXX\\hash_fn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\CXX\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\hash_fn.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\CXX\\hash_fn.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\C\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\C\\hash_fn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\C\\hash_fn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\C\\hash_fn.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\AssignmentIV\\C\\hash_fn.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,30 +71,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\README.md",
-              "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\README.md",
-              "ToolTip": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\README.md",
-              "RelativeToolTip": "Assignment\\AssignmentIV\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-11-24T12:08:49.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Makefile.bat",
-              "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\Makefile.bat",
-              "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\Makefile.bat",
-              "ToolTip": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\Makefile.bat",
-              "RelativeToolTip": "Assignment\\AssignmentIV\\Makefile.bat",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
-              "WhenOpened": "2025-11-24T12:08:49.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Makefile",
               "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\Makefile",
               "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\Makefile",
@@ -102,24 +78,90 @@
               "RelativeToolTip": "Assignment\\AssignmentIV\\Makefile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-24T12:08:45.997Z"
+              "WhenOpened": "2025-11-24T12:08:45.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hash_fn.c",
+              "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\C\\hash_fn.c",
+              "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\C\\hash_fn.c",
+              "ToolTip": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\C\\hash_fn.c",
+              "RelativeToolTip": "Assignment\\AssignmentIV\\C\\hash_fn.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-24T11:59:26.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Makefile.bat",
+              "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\Makefile.bat",
+              "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\Makefile.bat",
+              "ToolTip": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\Makefile.bat",
+              "RelativeToolTip": "Assignment\\AssignmentIV\\Makefile.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2025-11-24T12:08:49.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\README.md",
+              "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\README.md",
+              "ToolTip": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\README.md",
+              "RelativeToolTip": "Assignment\\AssignmentIV\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-24T12:08:49.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README_template.md",
+              "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\README_template.md",
+              "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\README_template.md",
+              "ToolTip": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\README_template.md",
+              "RelativeToolTip": "Assignment\\AssignmentIV\\README_template.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-24T11:45:41.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hash_fn.cpp",
+              "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\hash_fn.cpp",
+              "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\CXX\\hash_fn.cpp",
+              "ToolTip": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\hash_fn.cpp",
+              "RelativeToolTip": "Assignment\\AssignmentIV\\CXX\\hash_fn.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T11:39:50.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\main.cpp",
               "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\CXX\\main.cpp",
               "ToolTip": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\main.cpp",
               "RelativeToolTip": "Assignment\\AssignmentIV\\CXX\\main.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-24T11:55:04.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "hash_fn.hpp",
               "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\hash_fn.hpp",
               "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\CXX\\hash_fn.hpp",
@@ -127,23 +169,12 @@
               "RelativeToolTip": "Assignment\\AssignmentIV\\CXX\\hash_fn.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-24T11:55:03.363Z"
+              "WhenOpened": "2025-11-24T11:55:03.363Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "README_template.md",
-              "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\README_template.md",
-              "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\README_template.md",
-              "ToolTip": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\README_template.md",
-              "RelativeToolTip": "Assignment\\AssignmentIV\\README_template.md",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-11-24T11:45:41.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\C\\main.c",
               "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\C\\main.c",
@@ -155,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "hash_fn.h",
               "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\C\\hash_fn.h",
               "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\C\\hash_fn.h",
@@ -164,30 +195,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-24T11:58:24.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "hash_fn.cpp",
-              "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\hash_fn.cpp",
-              "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\CXX\\hash_fn.cpp",
-              "ToolTip": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\CXX\\hash_fn.cpp",
-              "RelativeToolTip": "Assignment\\AssignmentIV\\CXX\\hash_fn.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-24T11:39:50.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "hash_fn.c",
-              "DocumentMoniker": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\C\\hash_fn.c",
-              "RelativeDocumentMoniker": "Assignment\\AssignmentIV\\C\\hash_fn.c",
-              "ToolTip": "C:\\Users\\m5080\\source\\repos\\Su-junren\\11401_CS203A\\Assignment\\AssignmentIV\\C\\hash_fn.c",
-              "RelativeToolTip": "Assignment\\AssignmentIV\\C\\hash_fn.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-24T11:59:26.158Z"
             },
             {
               "$type": "Document",

@@ -10,26 +10,25 @@ Email: s1133337@mail.yzu.edu.tw
 ## My Hash Function
 ### Integer Keys 
 - Formula / pseudocode:
-  ```text
+```text
 	each digit -> ASCII code and get their summation
 	sum % table size
-  ```
+```
 - Rationale: 
 ```text
 ¡@	ASCII code is a different kind of symbol of a number in computer, so I use this special code to define my hash function. 
 	The result would be key number transform to ASCII code and mod the table size.
 	I think this method could lminumize the collisions.
-
 ```
 
 ### Non-integer Keys
 - Formula / pseudocode:
-  ```text
+```text
 	asign value to char: a -> 0, b -> 1, c -> 2...
 	give key word index: "cat" c -> 0, a -> 1, t -> 2
 	each char * 10 ^ (their index) and get their summation
 	sum % tabel size
-  ```
+```
 - Rationale: 
 ```text
 	At the first, I give the char a number to caculate. Then, giving the char index in each word. Finaly, use their value to multiply by 10 to the power of index.
