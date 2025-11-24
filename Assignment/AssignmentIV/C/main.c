@@ -1,13 +1,13 @@
 /*
    ========================================
-   hash_fn.c ¡X implement your hash functions
+   Hash Function Observation (C Version)
    ========================================
 
    Description:
     This file contains the hash functions for integer and string keys.
 
    Development History:
-    - 2025/11/24: Motify the README
+    - 2025/11/24: Initial implementation
 
    Developer: Jun-Ren Su <s1133337@mail.yzu.edu.tw>
  */

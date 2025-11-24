@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Assignment"
+    "\\Assignment",
+    "\\Assignment\\AssignmentIV",
+    "\\Assignment\\AssignmentIV\\C",
+    "\\Assignment\\AssignmentIV\\CXX"
   ],
-  "SelectedNode": "\\Assignment",
+  "SelectedNode": "\\Assignment\\AssignmentIV\\CXX\\main.cpp",
   "PreviewInSolutionExplorer": false
 }

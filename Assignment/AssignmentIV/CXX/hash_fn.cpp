@@ -1,6 +1,6 @@
 /*
    ========================================
-   hash_fn.c — implement your hash functions
+   hash_fn.cpp — implement your hash functions
    ========================================
 
    Description:
@@ -8,7 +8,6 @@
 
    Development History:
     - 2025/11/21: Motify the hash finction
-    - 2025/11/24: Motify the README
 
    Developer: Jun-Ren Su <s1133337@mail.yzu.edu.tw>
  */
