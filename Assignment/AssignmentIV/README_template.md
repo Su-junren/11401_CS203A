@@ -4,23 +4,38 @@ This assignment focuses on the design and observation of hash functions using C/
 Students are expected to implement and analyze the behavior of hash functions, 
 evaluate their efficiency, and understand their applications in computer science.
 
-Developer: [Your Name]  
-Email: [Your email]  
+Developer: Jun-Ren Su  
+Email: s1133337@mail.yzu.edu.tw  
 
 ## My Hash Function
 ### Integer Keys 
 - Formula / pseudocode:
   ```text
-  [Your implementation here]
+	each digit -> ASCII code and get their summation
+	sum % table size
   ```
-- Rationale: [Explain your design choices and how they minimize collisions.]
+- Rationale: 
+```text
+¡@	ASCII code is a different kind of symbol of a number in computer, so I use this special code to define my hash function. 
+	The result would be key number transform to ASCII code and mod the table size.
+	I think this method could lminumize the collisions.
+
+```
 
 ### Non-integer Keys
 - Formula / pseudocode:
   ```text
-  [Your implementation here]
+	asign value to char: a -> 0, b -> 1, c -> 2...
+	give key word index: "cat" c -> 0, a -> 1, t -> 2
+	each char * 10 ^ (their index) and get their summation
+	sum % tabel size
   ```
-- Rationale: [Explain your approach and its effectiveness for non-integer keys.]
+- Rationale: 
+```text
+	At the first, I give the char a number to caculate. Then, giving the char index in each word. Finaly, use their value to multiply by 10 to the power of index.
+	The result would be the summation o f values of each char in each key string * 10 ^ (their index).
+	I think the result would be much different from lexicographical order. 
+```
 
 ## Experimental Setup
 - Table sizes tested (m): 10, 11, 37
@@ -31,126 +46,31 @@ Email: [Your email]
 - Standard: C23 and C++23
 
 ## Results
-| Table Size (m) | Index Sequence         | Observation              |
-|----------------|------------------------|--------------------------|
-| 10             | 1, 2, 3, 4, ...        | Pattern repeats every 10 |
-| 11             | 10, 0, 1, 2, ...       | More uniform             |
-| 37             | 20, 21, 22, 23, ...    | Near-uniform             |
+Integer:
+| Table Size (m) | Index Sequence         | Observation             
+|----------------|------------------------|--------------------------------------|
+| 10             | 1, 2, 3, 4, ...        | Repeats every 10 but lost some number|
+| 11             | 10, 0, 1, 2, ...       | A little unique                      |
+| 37             | 20, 21, 22, 23, ...    | Collisions appear in 25 to 36        |
+
+Non-integer:
+| Table Size (m) | Index Sequence         | Observation             
+|----------------|------------------------|--------------------------------------|
+| 10             | 1, 2, 3, 4, ...        | Collisions often appear              |
+| 11             | 10, 0, 1, 2, ...       | Collisions often appear              | 
+| 37             | 20, 21, 22, 23, ...    | Collisions rarely appear             |
 
 ## Compilation, Build, Execution, and Output
 
 ### Compilation
-- The project uses a comprehensive Makefile that builds both C and C++ versions with proper flags:
-  ```bash
-  # Build both C and C++ versions
-  make all
-  
-  # Build only C version
-  make c
-  
-  # Build only C++ version
-  make cxx
-  ```
-
-### Manual Compilation (if needed)
-- Command for C:
-  ```bash
-  gcc -std=c23 -Wall -Wextra -Wpedantic -g -o C/hash_function C/main.c C/hash_fn.c
-  ```
-- Command for C++:
-  ```bash
-  g++ -std=c++23 -Wall -Wextra -Wpedantic -g -o CXX/hash_function_cpp CXX/main.cpp CXX/hash_fn.cpp
-  ```
-
-### Clean Build Files
-- Remove all compiled files:
-  ```bash
-  make clean
-  ```
-
-### Execution
-- Run the compiled binary:
-  ```bash
-  ./hash_function
-  ```
-  or
-  ```bash
-  ./hash_function_cpp
-  ```
+- The project compile in Visual Studio 2026.
 
 ### Result Snapshot
 - Example output for integers:
-  ```
-  === Hash Function Observation (C Version) ===
-
-  === Table Size m = 10 ===
-  Key     Index
-  -----------------
-  21      1
-  22      2
-  ...
-
-  === Table Size m = 11 ===
-  Key     Index
-  -----------------
-  21      10
-  22      0
-  ...
-
-  === Table Size m = 37 ===
-  Key     Index
-  -----------------
-  21      21
-  22      22
-  ...
-
-  === Hash Function Observation (C++ Version) ===
-
-  === Table Size m = 10 ===
-  Key     Index
-  -----------------
-  21      1
-  22      2
-  ...
-
-  === Table Size m = 11 ===
-  Key     Index
-  -----------------
-  21      10
-  22      0
-  ...
-
-  === Table Size m = 37 ===
-  Key     Index
-  -----------------
-  21      21
-  22      22
-  ...
-  ```
+  
 
 - Example output for strings:
-  ```
-  === String Hash (m = 10) ===
-  Key     Index
-  -----------------
-  cat     0
-  dog     0
-  ...
-
-  === String Hash (m = 11) ===
-  Key     Index
-  -----------------
-  cat     0
-  dog     0
-  ...
-
-  === String Hash (m = 37) ===
-  Key     Index
-  -----------------
-  cat     0
-  dog     0
-  ...
-  ```
+  
 
 - Observations: Outputs align with the analysis, showing better distribution with prime table sizes.
 - Example output for integers:
