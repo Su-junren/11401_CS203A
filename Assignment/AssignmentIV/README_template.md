@@ -66,10 +66,14 @@ Non-integer:
 
 ### Result Snapshot
 - Example output for integers:
-  
+  <img width="312" height="534" alt="image" src="https://github.com/user-attachments/assets/e44295b6-8ada-4c05-aaa3-50be1dec1bb6" />
+  <img width="331" height="543" alt="image" src="https://github.com/user-attachments/assets/fcb2279b-4a4f-44c9-98db-4bf83f9463ba" />
+  <img width="313" height="529" alt="image" src="https://github.com/user-attachments/assets/b8813394-9259-43af-a225-3524516be383" />
 
 - Example output for strings:
-  
+  <img width="353" height="315" alt="image" src="https://github.com/user-attachments/assets/d2e12f60-3a35-4a70-9192-e651542ae7c8" />
+  <img width="355" height="315" alt="image" src="https://github.com/user-attachments/assets/4d6b35f3-1777-4bc9-983f-0c011fc2c21c" />
+  <img width="345" height="307" alt="image" src="https://github.com/user-attachments/assets/16046ad0-f3d8-4d7e-ab04-b11836fbaaa6" />
 
 - Observations: Outputs align with the analysis, showing better distribution with prime table sizes.
 - Example output for integers:
