@@ -29,10 +29,11 @@ int myHashInt(int key, int m) {
 int myHashString(const char* str, int m) {
     unsigned long hash = 0;
     // TODO: replace with your own design
-    int digit[str.size()] = {};
+	int len = strlen(str);
+    int digit[4] = {};
     int sum = 0, power = 1;
 
-    for(int i = 0;i < str.size();i++){
+    for(int i = 0;i < len;i++){
         digit[i] = str[i] - 'a';
         sum += digit[i] * power;
         power *= 10;

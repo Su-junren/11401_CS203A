@@ -15,17 +15,26 @@
 
 int myHashInt(int key, int m) {
     // TODO: replace with your own design
-    return key % m;  // basic division method
+    int digitSum = 0;
+    while (key > 0) {
+        int transform = key % 10;
+        transform = transform + int('0') - 1;
+        digitSum += transform ;
+        key /= 10;
+    }
+    return digitSum % m;  // basic division method
 }
 
 int myHashString(const std::string& str, int m) {
     unsigned long hash = 0;
     // TODO: replace with your own design
-    int digit[str.size()] = {};
+	using namespace std;
+    int len = static_cast<int>(str.size()) - 1;
+    int digit[4] = {};
     int sum = 0, power = 1;
 
     for(int i = 0;i < str.size();i++){
-        digit[i] = str[i] - 'a';
+        digit[i] = str[i] - 'a' + 1;
         sum += digit[i] * power;
         power *= 10;
     }
