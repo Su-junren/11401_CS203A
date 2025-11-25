@@ -24,7 +24,7 @@ Email: s1133337@mail.yzu.edu.tw
 ### Non-integer Keys
 - Formula / pseudocode:
 ```text
-	asign value to char: a -> 0, b -> 1, c -> 2...
+	asign value to char: a -> 1, b -> 2, c -> 3...
 	give key word index: "cat" c -> 0, a -> 1, t -> 2
 	each char * 10 ^ (their index) and get their summation
 	sum % tabel size
@@ -62,7 +62,7 @@ Non-integer:
 ## Compilation, Build, Execution, and Output
 
 ### Compilation
-- The project compile in Visual Studio 2026.
+- The project compile in ```Visual Studio 2026```.
 
 ### Result Snapshot
 - Example output for integers:
@@ -80,24 +80,22 @@ Non-integer:
 - Observations: Outputs align with the analysis, showing better distribution with prime table sizes.
 - Example output for integers:
   ```
-  Hash table (m=10): [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
-  Hash table (m=11): [10, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-  Hash table (m=37): [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, ...]
+  Hash table (m=10): [9, 0, 1, 2, 3, 4, 5, 6, 7, 9, 2, 3, 4, 5, 6, 7, 8, 9, 0, 2]
+  Hash table (m=11): [0, 1, 2, 3, 4, 5, 6, 7, 8, 0, 3, 4, 5, 6, 7, 8, 9, 10, 0, 3]
+  Hash table (m=37): [25, 26, 27, 28, 29, 30, 31, 32, 33, 25, 28, 29, 30, 31, 32, 33, 34, 35, 36, 28]
   ```
 - Example output for strings:
   ```
-  Hash table (m=10): ["cat", "dog", "bat", "cow", "ant", ...]
-  Hash table (m=11): ["fox", "cat", "dog", "bat", "cow", ...]
-  Hash table (m=37): ["bee", "hen", "pig", "fox", "cat", ...]
+  Hash table (m=10): [2, 3, 1, 2, 0, 4, 1, 7, 5, 5]
+  Hash table (m=11): [10, 6, 9, 10, 6, 3, 1, 5, 2, 3]
+  Hash table (m=37): [15, 3, 14, 11, 32, 2, 34, 15, 29, 3]
   ```
 - Observations: Outputs align with the analysis, showing better distribution with prime table sizes.
 
 ## Analysis
-- Prime vs non-prime `m`: Prime table sizes generally result in better distribution and fewer collisions.
-- Patterns or collisions: Non-prime table sizes tend to produce repetitive patterns, leading to more collisions.
-- Improvements: Use a prime table size and a well-designed hash function to enhance distribution.
+- Hash function - Integer v.s Non-integer : In integer case, my hash function just take ASCII code to get the hash value. Therefore, the original feature will be carried into the hash value. In non-integer case, I use the number to present each ```char``` and take this number to multiply by 10 to the power of index, that like weight, so it would be less collisions in this case.
+- Prediction : I think, in integer case, the situation of collisions would be the same in every ```table size```; in non-integer case, it would decrease as table size increase.      
 
 ## Reflection
-1. Designing hash functions requires balancing simplicity and effectiveness to minimize collisions.
-2. Table size significantly impacts the uniformity of the hash distribution, with prime sizes performing better.
-3. The design using a prime table size and a linear transformation formula produced the most uniform index sequence.
+1. Use ```digit[4]``` to storage the number of each ```char``` and multiply the ```weight```(power).
+2. return ```static_case<int>``` to sure the data type of ```hash value``` is correct. 
