@@ -34,7 +34,7 @@ int myHashString(const char* str, int m) {
     int sum = 0, power = 1;
 
     for(int i = 0;i < len;i++){
-        digit[i] = str[i] - 'a';
+        digit[i] = str[i] - 'a' + 1;
         sum += digit[i] * power;
         power *= 10;
     }
