@@ -73,8 +73,8 @@ Non-integer:
 
 - Example output for strings:
 
-  <img width="353" height="315" alt="image" src="https://github.com/user-attachments/assets/d2e12f60-3a35-4a70-9192-e651542ae7c8" />
-  <img width="355" height="315" alt="image" src="https://github.com/user-attachments/assets/4d6b35f3-1777-4bc9-983f-0c011fc2c21c" />
+  <img width="351" height="310" alt="image" src="https://github.com/user-attachments/assets/92a6d43f-fa29-44ef-8593-6a29ab119c9b" />
+  <img width="355" height="317" alt="image" src="https://github.com/user-attachments/assets/52aed87b-b60c-421b-9db4-37a7ea15bd9d" />
   <img width="345" height="307" alt="image" src="https://github.com/user-attachments/assets/16046ad0-f3d8-4d7e-ab04-b11836fbaaa6" />
 
 - Observations: Outputs align with the analysis, showing better distribution with prime table sizes.
