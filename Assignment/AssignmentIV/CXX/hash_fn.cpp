@@ -18,7 +18,7 @@ int myHashInt(int key, int m) {
     int digitSum = 0;
     while (key > 0) {
         int transform = key % 10;
-        transform = transform + int('0') - 1;
+        transform = transform + int('0');
         digitSum += transform ;
         key /= 10;
     }
@@ -29,7 +29,6 @@ int myHashString(const std::string& str, int m) {
     unsigned long hash = 0;
     // TODO: replace with your own design
 	using namespace std;
-    int len = static_cast<int>(str.size()) - 1;
     int digit[4] = {};
     int sum = 0, power = 1;
 
